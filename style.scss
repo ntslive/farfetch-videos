@@ -8,22 +8,6 @@
     font-weight: normal;
 }
 
-@font-face {
-    font-family: 'NimbusRomD-Reg';
-    src: url('../fonts/NimbusRomD-Reg.woff2') format('woff2'),
-        url('../fonts/NimbusRomD-Reg.woff') format('woff');
-    font-style: normal;
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: 'NimbusSanExtD-Bol';
-    src: url('../fonts/NimbusSanExtD-Bol.woff2') format('woff2'),
-        url('../fonts/NimbusSanExtD-Bol.woff') format('woff');
-    font-style: normal;
-    font-weight: normal;
-}
-
 html {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
