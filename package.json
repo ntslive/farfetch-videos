@@ -1,5 +1,5 @@
 {
-  "name": "ru",
+  "name": "farfetch",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ntslive/ru-videos.git"
+    "url": "git+https://github.com/ntslive/farfetch-videos.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ntslive/ru-videos/issues"
+    "url": "https://github.com/ntslive/farfetch-videos/issues"
   },
-  "homepage": "https://github.com/ntslive/ru-videos#readme",
+  "homepage": "https://github.com/ntslive/farfetch-videos#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-preset-es2015": "^6.24.1",

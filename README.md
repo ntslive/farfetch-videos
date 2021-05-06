@@ -1,4 +1,4 @@
-# ru-videos
+# farfetch-videos
 
 ## Setup
 
