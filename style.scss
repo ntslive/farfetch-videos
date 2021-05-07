@@ -81,7 +81,7 @@ main {
 }
 
 .description {
-    margin-bottom: 40px;
+    margin-bottom: 24px;
 }
 
 .description__copy {
@@ -90,11 +90,11 @@ main {
 }
 
 .artists {
-    margin-bottom: 48px;
+    margin-bottom: 24px;
 }
 
 .artists__image {
-    max-width: 234px;
+    max-width: 300px;
     width: 100%;
 }
 
@@ -125,7 +125,11 @@ main {
         margin-bottom: 32px;
     }
 
+    .description {
+        margin-bottom: 16px;
+    }
+
     .artists {
-        margin-bottom: 56px;
+        margin-bottom: 8px;
     }
 }
